@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Testaccount927/Hydro8-beta1.0/refs/heads/main/Hydro8"))();
